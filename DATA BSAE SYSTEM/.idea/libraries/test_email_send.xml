@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="test_email_send">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/test_email_send.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/test_email_send.zip!/test_email_send/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
